@@ -4,14 +4,17 @@
 This is my DIY RC airplane project. I built it using a brushless motor, FlySky radio system, and a LiPo battery. The goal was to make a simple plane that can actually fly while learning how RC electronics and aerodynamics work.
 
 ## BOM (Bill of Materials)
-- 2200KV Brushless Motor - $7.26  - https://s.daraz.com.np/s.ZRkRP
-- 30A ESC - $6.47 - https://s.daraz.com.np/s.ZRkRL
-- 2200mAh LiPo Battery - $13.88 - https://s.daraz.com.np/s.ZRkPR
-- FlySky Transmitter + Receiver - $66.99 - https://s.daraz.com.np/s.ZRk8n
-- 2 Servo Motors - $5.42 - https://s.daraz.com.np/s.ZRk9u
-- Propeller - $1.30 - https://s.daraz.com.np/s.ZRkRG
-- Foam board (for the airplane body)
-- Control horns, push rods, glue, and other small parts
+
+| Component | Price | Link |
+|-----------|------:|------|
+| 2200KV Brushless Motor | $7.26 | https://s.daraz.com.np/s.ZRkRP |
+| 30A ESC | $6.47 | https://s.daraz.com.np/s.ZRkRL |
+| 2200mAh LiPo Battery | $13.88 | https://s.daraz.com.np/s.ZRkPR |
+| FlySky Transmitter + Receiver | $66.99 | https://s.daraz.com.np/s.ZRk8n |
+| 2 Servo Motors | $5.42 | https://s.daraz.com.np/s.ZRk9u |
+| Propeller | $1.30 | https://s.daraz.com.np/s.ZRkRG |
+| Foam board | — | For the airplane body |
+| Control horns, push rods, glue, and other small parts | — | Miscellaneous hardware |
 
 ## Wiring
 - CH1 → Aileron Servo
@@ -35,11 +38,10 @@ This project wasn't easy. I had to reconnect wires a few times, figure out the c
 - Make the plane lighter.
 - Improve the body design.
 
- # Here is the 3d design.
+## 3D Design
 
+![3D Design](https://github.com/user-attachments/assets/e2a47a39-2433-4a78-87e2-610e4e2d9ebd)
 
-<img width="985" height="720" alt="Screenshot From 2026-07-30 21-43-06" src="https://github.com/user-attachments/assets/e2a47a39-2433-4a78-87e2-610e4e2d9ebd" />
+## Circuit Diagram
 
-# Here is the circuit diagram
- <img width="985" height="720" alt="Screenshot From 2026-07-30 22-16-28" src="https://github.com/user-attachments/assets/93820cf4-3656-4fb7-b0c2-4d520bdb0712" />
-
+![Circuit Diagram](https://github.com/user-attachments/assets/93820cf4-3656-4fb7-b0c2-4d520bdb0712)
