@@ -38,9 +38,9 @@ This project wasn't easy. I had to reconnect wires a few times, figure out the c
 - Make the plane lighter.
 - Improve the body design.
 
-## 3D Design
+## 3D Design (Watch the video)
 
-![3D Design](https://github.com/user-attachments/assets/e2a47a39-2433-4a78-87e2-610e4e2d9ebd)
+[Screencast From 2026-08-02 20-52-19.webm](https://github.com/user-attachments/assets/7ea589e4-4156-4395-95a8-733e803152b9)
 
 ## Circuit Diagram
 
