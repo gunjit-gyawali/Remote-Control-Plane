@@ -10,7 +10,7 @@ This is my DIY RC airplane project. I built it using a brushless motor, FlySky r
 | 2200KV Brushless Motor | $7.26 | https://s.daraz.com.np/s.ZRkRP |
 | 30A ESC | $6.47 | https://s.daraz.com.np/s.ZRkRL |
 | 2200mAh LiPo Battery | $13.88 | https://s.daraz.com.np/s.ZRkPR |
-| FlySky Transmitter + Receiver | $66.99 | https://s.daraz.com.np/s.ZRk8n |
+| FlySky Transmitter + Receiver (Owned) | $66.99 | https://s.daraz.com.np/s.ZRk8n |
 | 4 Servo Motors | $10.84 | https://s.daraz.com.np/s.ZRk9u |
 | Propeller | $1.30 | https://s.daraz.com.np/s.ZRkRG |
 | Foam board | — | For the airplane body |
